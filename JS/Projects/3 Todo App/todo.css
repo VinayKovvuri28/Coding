@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+}
+
+#main-heading {
+  text-align: center;
+}
+
+.grid-container {
+  text-align: center;
+  margin-bottom: 10px; 
+}
+
+.btn-todo {
+  width: 50%;
+}
+
+
+

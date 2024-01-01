@@ -1,0 +1,14 @@
+#my-button {
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    border-radius: 50px;
+}
+
+.odd {
+    background-color: red;
+}
+
+.even {
+ background-color: green;
+}

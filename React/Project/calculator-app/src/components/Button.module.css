@@ -1,0 +1,12 @@
+.buttonDiv {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 25px;
+}
+
+.calButton {
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+}
